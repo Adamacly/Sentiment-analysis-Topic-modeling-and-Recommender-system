@@ -43,9 +43,8 @@ Ce projet vise à analyser automatiquement les avis clients pour en extraire l�
 ### 🔁 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-nom-utilisateur/avis-clients-nlp-reco.git
-cd avis-clients-nlp-reco
-```
+git clone https://github.com/Adamacly/Sentiment-analysis-Topic-modeling-and-Recommender-system.git
+cd Sentiment-analysis-Topic-modeling-and-Recommender-system
 
 ### 🛠️ 2. Créer et activer un environnement virtuel
 
