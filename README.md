@@ -16,7 +16,7 @@ Ce projet vise à analyser automatiquement les avis clients pour en extraire l�
 - **NLTK**, **Pandas** : traitement du langage naturel
 - **Transformers (HuggingFace)** : modèles pré-entraînés (ex : SieBERT pour l’analyse de sentiment)
 - **BERTopic** : détection de thématiques
-- **RecBole**, **BERT4Rec** : système de recommandation
+- **Item-based** : système de recommandation
 - **Plotly Dash** : interface web interactive pour la visualisation et l'interaction
 
 ## 🚀 Fonctionnalités principales
